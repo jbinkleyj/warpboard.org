@@ -1,19 +1,12 @@
 {
-  "name": "Has-MakerBot-Become-TakerBot",
+  "name": "warpboard.org",
   "version": "0.0.0",
-  "description": "Has MakerBot Become TakerBot?",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "warpboard.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot"
+    "url": "git://github.com/jbinkleyj/warpboard.org"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot/issues"
-  },
-  "homepage": "https://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot"
+  "homepage": "https://github.com/jbinkleyj/warpboard.org"
 }
