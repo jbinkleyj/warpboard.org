@@ -1,0 +1,19 @@
+{
+  "name": "Has-MakerBot-Become-TakerBot",
+  "version": "0.0.0",
+  "description": "Has MakerBot Become TakerBot?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot/issues"
+  },
+  "homepage": "https://github.com/jbinkleyj/Has-MakerBot-Become-TakerBot"
+}
